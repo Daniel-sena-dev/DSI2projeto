@@ -1,0 +1,76 @@
+{
+  "itemData": [
+    {
+      "id": 0,
+      "img": "./filmes/cartaz1.jpg",
+      "title": "Pequena Sereia",
+      "author": "Rob Marshall",
+      "summary": "A sereia Ariel, uma princesa que sonha viver sobre a terra, faz um acordo com a inescrupulosa bruxa do mar Úrsula, na tentativa de reencontrar Eric, o príncipe humano que ela havia salvado de um naufrágio e pelo qual se apaixonou.",
+      "rate": 4.5
+    },
+    {
+      "id": 1,
+      "img": "./filmes/cartaz2.jpg",
+      "title": "O Homem cordial",
+      "author": "Iberê Carvalho",
+      "summary": "Na noite de retorno aos palcos de uma famosa banda de rock dos anos 1980, um vídeo que envolve Aurélio Sá, vocalista e líder da banda, na morte de um policial militar, viraliza na internet.",
+      "rate": 3.2
+    },
+    {
+      "id": 2,
+      "img": "./filmes/cartaz3.jpg",
+      "title": "Transformers o despertar das feras",
+      "author": "Steven Caple Jr.",
+      "summary": "Uma nova ameaça capaz de destruir todo o planeta surge fazendo com que Optimus Prime e os Autobots se unam a uma poderosa facção de Transformers conhecida como Maximals para salvar a Terra.",
+      "rate": 4.8
+    },
+    {
+      "id": 3,
+      "img": "./filmes/cartaz4.jpg",
+      "title": "Homem-Aranha Através do aranhaverso",
+      "author": "Peter Ramsey",
+      "summary": "Depois de se reunir com Gwen Stacy, Homem-Aranha é jogado no multiverso, onde ele encontra uma equipe encarregada de proteger sua própria existência.",
+      "rate": 4.8
+    },
+    {
+      "id": 4,
+      "img": "./filmes/cartaz5.jpg",
+      "title": "Emoji: O filme",
+      "author": "Tony Leondis",
+      "summary": "Escondida dentro do aplicativo de texto está Textópolis, uma cidade cheia de vida em que todos os emojis vivem, aguardando serem selecionados pelo dono do celular. Cada emoji tem apenas uma expressão facial, exceto Gene, que nasceu sem filtro.",
+      "rate": 5
+    },
+    {
+      "id": 5,
+      "img": "./filmes/cartaz6.png",
+      "title": "The Flash",
+      "author": "Andy Muschietti",
+      "summary": "Os mundos colidem quando Flash viaja no tempo para mudar os eventos do passado. No entanto, quando sua tentativa de salvar sua família altera o futuro, ele fica preso em uma realidade na qual o General Zod voltou, ameaçando a aniquilação.",
+      "rate": 3.9
+    },
+    {
+      "id": 6,
+      "img": "./filmes/cartaz7.jpg",
+      "title": "Elementos",
+      "author": "Peter Sohn",
+      "summary": "Em uma cidade onde os habitantes de fogo, água, terra e ar convivem, uma jovem mulher flamejante e um rapaz que vive seguindo o fluxo descobrem algo surpreendente, porém elementar: o quanto eles têm em comum.",
+      "rate": 3.6
+    },
+    {
+      "id": 7,
+      "img": "./filmes/cartaz8.jpg",
+      "title": "Indiana jones e o chamado do destino",
+      "author": "James Mangold",
+      "summary": "O lendário herói arqueólogo está de volta neste aguardado capítulo final da icônica franquia, uma incrível e empolgante aventura cinematográfica.",
+      "rate": 3.9
+    },
+    {
+      "title": "Titanic ",
+      "author": "James Cameron",
+      "summary": "Um artista pobre e uma jovem rica se conhecem e se apaixonam na fatídica viagem inaugural do Titanic em 1912. Embora esteja noiva do arrogante herdeiro de uma siderúrgica, a jovem desafia sua família e amigos em busca do verdadeiro amor.\n",
+      "rate": "5",
+      "img": "https://poltronanerd.com.br/wp-content/uploads/2023/01/titanic_ver10_xlg.jpg",
+      "id": 8
+    }
+  ]
+}
